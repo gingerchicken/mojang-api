@@ -1,4 +1,4 @@
-let MojangAPI = require('../index');
+let MojangAPI = require('../lib/index');
 
 let chai = require('chai');
 
