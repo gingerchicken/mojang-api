@@ -1,6 +1,6 @@
 {
   "name": "mojang-promise-api",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple but nice wrapper around Mojang's API",
   "main": "index.js",
   "scripts": {

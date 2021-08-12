@@ -2,7 +2,7 @@
 [![Build Status](https://travis-ci.com/gingerchicken/mojang-promise-api.svg?branch=master)](https://travis-ci.com/gingerchicken/mojang-promise-api)
 
 `mojang-promise-api` is a simple but effective wrapper around the [Mojang API](http://wiki.vg/Mojang_API). It is simple and low-dependency (only needing the
-__fabulous__ [Axios](https://www.npmjs.com/package/request) library). This package was originally forked from the [`mojang-api`](https://github.com/minecrafter/mojang-api) project, however it was fitted to work with [Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) rather than callback functions.
+__fabulous__ [Axios](https://www.npmjs.com/package/axios) library). This package was originally forked from the [`mojang-api`](https://github.com/minecrafter/mojang-api) project, however it was fitted to work with [Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) rather than callback functions.
 
 ## Installation
     npm i mojang-promise-api
