@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/thechunknetwork/mojang-api.git"
+    "url": "https://github.com/gingerchicken/mojang-promise-api"
   },
   "keywords": [
     "minecraft",
