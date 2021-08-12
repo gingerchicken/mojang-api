@@ -5,7 +5,7 @@
 __fabulous__ [Axios](https://www.npmjs.com/package/request) library). This package was originally forked from the [`mojang-api`](https://github.com/minecrafter/mojang-api) project, however it was fitted to work with [Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) rather than callback functions.
 
 ## Installation
-I am yet to make it an npm package that you can download, however I have plans to do so in the future!
+    npm i mojang-promise-api
 
 ## Usage
 
