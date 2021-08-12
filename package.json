@@ -14,7 +14,7 @@
     "minecraft",
     "mojang"
   ],
-  "author": "Tux <write@imaginarycode.com>",
+  "author": "howitsdone",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/gingerchicken/mojang-api-promise/issues"
